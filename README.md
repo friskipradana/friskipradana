@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, my full name is Friski Pradana, so you can call me "Friski", Iam Software Engineer which one focuses more on frontend side, 
+my full name is Friski Pradana, so you can call me "Friski", Iam Software Engineer which one focuses more on frontend side, 
 but also have an ability to code in backend  side, Iam interested about modern web technology using JavaScript.
 
 ### Iam Passionate
