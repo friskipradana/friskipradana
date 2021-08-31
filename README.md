@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, my full name is Friski Pradana, so you can call me "Friski", Iam Software Engineer 
+
 <!--
 **friskipradana/friskipradana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
