@@ -5,7 +5,6 @@ but also have an ability to code in backend  side, Iam interested about modern w
 
 ### Iam Passionate
  - 😄 Art
- - 🔭 Videography & Photography
  - ⚡ Animation
  - 🌱 Coding
 
