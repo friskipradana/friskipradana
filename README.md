@@ -5,19 +5,21 @@ but also have an ability to code in backend  side, Iam interested about modern w
 
 
 ### Experiences
--
--
--
+- Pure JavaScript
+- GIT (VCS)
+- React JS
+- Express JS
+- Firebase, mongo, mysql, Heroku
 
 ### Currently learning
--
+- 
 -
 -
 
 ### You can find me in :
--
--
--
+- Instagram : 
+- Linkedln :
+- Email :
 
 
 <!--
