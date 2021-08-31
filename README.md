@@ -24,7 +24,7 @@ but also have an ability to code in backend  side, Iam interested about modern w
 
 ### You can find me in :
 - Instagram : @friski_pradana
-- Linkedln : <a><href="https://id.linkedin.com/in/friski-pradana-5bb328194"> friski pradana <a>
+- Linkedln : <a href="https://id.linkedin.com/in/friski-pradana-5bb328194"> friski pradana <a>
 - Email : friskipradana8@gmail.com
 
 
