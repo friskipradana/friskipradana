@@ -17,7 +17,7 @@ but also have an ability to code in backend  side, Iam interested about modern w
 - Firebase, mongo, mysql, Heroku
 
 ### Currently learning
-- Try Create a software for microcontroller arduino avr 8 bit and esp 32 bit using c++ language 
+- Try Create a software or Program for microcontroller arduino avr 8 bit and esp 32 bit using c++ language 
 - Try Create schematic & wiring component pcb
 - Try Design board PCB Layout for minimum system IC ATMEGA and ESP
 - Make Product to solve a problem using microcontroler 
