@@ -4,10 +4,10 @@ Hi, my full name is Friski Pradana, so you can call me "Friski", Iam Software En
 but also have an ability to code in backend  side, Iam interested about modern web technology using JavaScript.
 
 ### Iam Passionate
- 😄 Art
- 🔭 Videography & Photography
- ⚡ Animation
- 🌱 Coding
+ - 😄 Art
+ - 🔭 Videography & Photography
+ - ⚡ Animation
+ - 🌱 Coding
 
 
 ### Experiences
