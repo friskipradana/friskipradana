@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hi, my full name is Friski Pradana, so you can call me "Friski", Iam Software Engineer 
+Hi, my full name is Friski Pradana, so you can call me "Friski", Iam Software Engineer which one focuses more on frontend side, 
+but also have an ability to code in backend side.
 
 <!--
 **friskipradana/friskipradana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
