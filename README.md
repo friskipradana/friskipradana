@@ -11,11 +11,12 @@ so that the website looks clean, minimalist, attractive and easy to use :)
 
 
 ### Experiences
-- Pure JavaScript
+- Pure Css & JavaScript
+- Sass, Tailwind
 - GIT (VCS)
 - React JS
 - Express JS
-- Firebase, mongo, mysql, Heroku
+- Firebase, mongo, mariadb, mysql, Heroku
 
 ### Currently learning
 - Try Create a Program for microcontroller arduino avr 8 bit and esp 32 bit using c++ language 
