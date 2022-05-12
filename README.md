@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-my full name is Friski Pradana, so you can call me "Friski", Iam IT enthusiast which one focuses more on frontend side, 
-but also have an ability to code in backend  side, Iam interested about modern web technology using JavaScript.
+Hello, my name Friski Pradana, am from East Java (Indonesia), 
+I currently focus on Frontend but I need to learn UI/UX designs 
+so that the website looks clean, minimalist, attractive and easy to use :)
 
 ### Iam Passionate
  - 😄 Art
