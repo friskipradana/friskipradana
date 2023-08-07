@@ -1,29 +1,12 @@
 ### Hi there 👋
 
 Hello, my name Friski Pradana, am from East Java (Indonesia), 
-I currently focus on Frontend but I need to learn UI/UX designs 
-so that the website looks clean, minimalist, attractive and easy to use :)
 
 ### Iam Passionate
  - 😄 Art
  - ⚡ Animation
  - 🌱 Coding
 
-
-### Experiences
-- Pure Css & JavaScript
-- Sass, Tailwind
-- GIT (VCS)
-- React JS
-- Express JS
-- Firebase, mongo, mariadb, mysql, Heroku
-
-### Currently learning
-- Try Create a Program for microcontroller arduino avr 8 bit and esp 32 bit using c++ language 
-- Try Create schematic & wiring component pcb
-- Try Design board PCB Layout for minimum system IC ATMEGA and ESP
-- Make Product to solve a problem using microcontroler 
-- Self Improvement
 
 ### You can find me in :
 - Instagram : @friski_pradana
