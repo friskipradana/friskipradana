@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hello, my name Friski Pradana, am from East Java (Indonesia), I just ordinary people who like visuals and code
+Hello, name is Friski Pradana am from East Java (Indonesia), 
+I just ordinary people who like visuals and code
 
 ### You can find me in :
 - Instagram : @friski_pradana
