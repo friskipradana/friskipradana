@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, am Friski Pradana from East Java (Indonesia), <br>
+am Friski Pradana from East Java (Indonesia), <br>
 I just ordinary people who like visuals and code
 
 ### You can find me in :
