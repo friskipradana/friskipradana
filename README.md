@@ -6,7 +6,7 @@ I just ordinary people who like visuals and code
 ### You can find me in :
 - Instagram : @friski_pradana
 - Linkedln : <a href="https://id.linkedin.com/in/friski-pradana-5bb328194"> friski pradana <a>
-- Email : friskipradana8@gmail.com
+- Email : friskipradana8@proton.me
 
 
 <!--
